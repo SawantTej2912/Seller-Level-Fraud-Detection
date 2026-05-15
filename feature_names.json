@@ -1,0 +1,25 @@
+{
+  "numeric": [
+    "user_id",
+    "account_age_days",
+    "total_transactions_user",
+    "avg_amount_user",
+    "amount",
+    "promo_used",
+    "avs_match",
+    "cvv_result",
+    "three_ds_flag",
+    "shipping_distance_km",
+    "country_match",
+    "hour",
+    "night_flag",
+    "log_amount",
+    "amount_ratio"
+  ],
+  "categorical": [
+    "channel_web",
+    "merchant_category_te",
+    "country_te",
+    "bin_country_te"
+  ]
+}
